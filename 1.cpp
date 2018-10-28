@@ -4,7 +4,7 @@ int main()
 {
 	using namespace std;
 	int a = 15;
-	int *b;
+	int *b;//pointer
 	b = &a;
 	
 return 0;
